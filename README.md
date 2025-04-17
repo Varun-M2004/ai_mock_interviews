@@ -32,7 +32,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   <br />
     <a href="https://www.youtube.com/watch?v=8GK8R77Bd7g" target="_blank">
      
-    </a>
+    
   <br />
   
   <div>
